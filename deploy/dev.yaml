@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/gcp-devops-435910/locations/us-central1-c/clusters/cluster-2633
+  cluster: projects/gcp-devops-435910/locations/us-central1-c/clusters/cluster-2
 
